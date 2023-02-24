@@ -1,0 +1,107 @@
+#top-links {
+    width: 400px;
+    display: flex;
+    font-size: 18px;
+    margin: 15px auto;
+    justify-content: space-between;
+    /* border: 1px solid lightgrey; */
+}
+
+#section-1 {
+    margin: 25px 10px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+}
+#section-1 > img {
+    width: 100%;
+}
+
+#section-2 {
+    margin-bottom: 20px;
+}
+
+#section-3 {
+    width: 90%;
+    margin: 15px auto;
+    margin-bottom: 60px;
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    gap: 25px;
+}
+#section-3 > img {
+    width: 100%;
+}
+#section-3 > .section-3-card > p {
+    margin-top: 10px;
+    font-size: 11px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    /* border: 1px solid lightgrey; */
+}
+
+#section-4 > #section-4-img {
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+#section-4 > #section-4-img {
+    width: 50%;
+}
+
+#section-5 {
+    margin-bottom: 25px;
+}
+#section-5 > .section-5-cards-container {
+    display: flex;
+}
+
+#section-7 {
+    margin-bottom: 40px;
+}
+#section-7 > #section-7-images {
+    margin: 5px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px 10px;
+}
+
+#section-8 > #section-8-images {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+}
+
+#section-9 {
+    margin: 25px 10px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+}
+#section-9 > img {
+    width: 100%;
+}
+
+#section-10 {
+    margin-bottom: 20px;
+}
+
+#section-11 > #section-11-images {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+}
+
+#section-12 > #section-12-images {
+    margin: 5px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px 10px;
+}
+
+#section-13 {
+    margin-top: 10px;
+}
+
+#section-14 {
+    margin-top: 10px;
+}
