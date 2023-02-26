@@ -1,3 +1,4 @@
+import { useToast } from '@chakra-ui/react';
 import axios from 'axios';
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
@@ -7,6 +8,7 @@ export default function Cart() {
   const [products, setProducts] = useState([]);
   const [totalPrice, setTotalPrice] = useState(0);
   const [totalOriginalPrice, setTotalOriginalPrice] = useState(0);
+  const toast = useToast()
 
   useEffect(() => {
     fetchCart();
@@ -37,6 +39,13 @@ export default function Cart() {
 
 
   const handleRemove = (e) => {
+    toast({
+      title: 'Product removed from cart.',
+      status: 'success',
+      duration: 3000,
+      isClosable: true,
+    });
+
     console.log(e.target.id);
 
     axios.delete(`http://localhost:8080/cart/${e.target.id}`)

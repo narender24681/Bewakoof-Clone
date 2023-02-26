@@ -88,40 +88,103 @@
       "brand": "Bewakoof®",
       "name": "Men's Purple Justice League Society Graphic Printed Oversized T-shirt",
       "price": 499,
-      "quantity": 2,
+      "quantity": 1,
       "originalPrice": 1499,
       "membersPrice": 459,
       "id": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Narender",
+      "lastName": "Ch",
+      "email": "narender@gmail.com",
+      "password": "Narender@123"
     },
     {
-      "image": "https://images.bewakoof.com/t640/men-s-black-the-panda-way-oversize-fit-full-sleeve-t-shirt-580633-1676876417-1.jpg",
-      "brand": "Bewakoof®",
-      "name": "Men's Black The Panda Way Graphic Printed Oversized T-shirt",
-      "price": 699,
-      "quantity": 1,
-      "originalPrice": 1499,
-      "membersPrice": 639,
-      "id": 2
+      "id": 1,
+      "firstName": "Narender1",
+      "lastName": "Ch1",
+      "email": "narender1@gmail.com",
+      "password": "Narender1@123"
     },
     {
-      "image": "https://images.bewakoof.com/t640/men-s-maroon-chainsaw-man-graphic-printed-oversized-t-shirt-581386-1677044901-1.jpg",
-      "brand": "Bewakoof®",
-      "name": "Men's Maroon Chainsaw Man Graphic Printed Oversized T-shirt",
-      "price": 699,
-      "quantity": 1,
-      "originalPrice": 1499,
-      "membersPrice": 459,
+      "id": 2,
+      "firstName": "Narender2",
+      "lastName": "Ch2",
+      "email": "narender2@gmail.com",
+      "password": "Narender2@123"
+    },
+    {
+      "email": "narender3@gmail.com",
+      "firstName": "Narender3",
+      "lastName": "Ch3",
+      "password": "Narender3@123",
       "id": 3
     },
     {
-      "image": "https://images.bewakoof.com/t640/men-s-black-chainsaw-man-graphic-printed-t-shirt-581232-1676898338-1.jpg",
-      "brand": "Bewakoof®",
-      "name": "Men's Black Chainsaw Man Graphic Printed T-shirt",
-      "price": 399,
-      "quantity": 1,
-      "originalPrice": 1499,
-      "membersPrice": 369,
+      "email": "narender4@gmail.com",
+      "firstName": "Narender4",
+      "lastName": "Ch4",
+      "password": "Narender4@123",
       "id": 4
+    },
+    {
+      "email": "narender5@gmail.com",
+      "firstName": "Narender5",
+      "lastName": "Ch5",
+      "password": "Narender5@123",
+      "id": 5
+    },
+    {
+      "email": "narender6@gmail.com",
+      "firstName": "Narender6",
+      "lastName": "Ch6",
+      "password": "Narender6@123",
+      "id": 6
+    },
+    {
+      "email": "narender7@gmail.com",
+      "firstName": "Narender7",
+      "lastName": "Ch7",
+      "password": "Narender7@123",
+      "id": 7
+    },
+    {
+      "email": "narender8@gmail.com",
+      "firstName": "Narender8",
+      "lastName": "Ch8",
+      "password": "Narender8@123",
+      "id": 8
+    },
+    {
+      "email": "narender9@gmail.com",
+      "firstName": "Narender9",
+      "lastName": "Ch9",
+      "password": "Narender9@123",
+      "id": 9
+    },
+    {
+      "email": "narender10@gmail.com",
+      "firstName": "Narender10",
+      "lastName": "Ch10",
+      "password": "Narender10@123",
+      "id": 10
+    },
+    {
+      "email": "narender11@gmail.com",
+      "firstName": "Narender11",
+      "lastName": "Ch11",
+      "password": "Narender11@123",
+      "id": 11
+    },
+    {
+      "email": "narender12@gmail.com",
+      "firstName": "Narender12",
+      "lastName": "Ch12",
+      "password": "Narender12@123",
+      "id": 12
     }
   ]
 }

@@ -1,9 +1,11 @@
 import React, { useEffect, useState } from 'react';
 import axios from "axios";
 import "./Products.css";
+import { useToast } from '@chakra-ui/react';
 
 export default function Products({ url }) {
   const [products, setProducts] = useState([]);
+  const toast = useToast();
 
   useEffect(() => {
     axios.get(url)
@@ -18,6 +20,13 @@ export default function Products({ url }) {
   console.log(products);
 
   const handleCartBtn = (e) => {
+    toast({
+      title: 'Product added to cart.',
+      status: 'success',
+      duration: 3000,
+      isClosable: true,
+    });
+
     console.log(`${url}/${e.target.id}`)
     axios.get(`${url}/${e.target.id}`)
     .then(res => {
