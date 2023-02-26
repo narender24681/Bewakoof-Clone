@@ -1,19 +1,127 @@
 {
-  "posts": [
+  "mens-clothing": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "image": "https://images.bewakoof.com/t640/men-s-purple-justice-league-society-graphic-printed-oversized-t-shirt-581274-1676971303-1.jpg",
+      "brand": "Bewakoof®",
+      "name": "Men's Purple Justice League Society Graphic Printed Oversized T-shirt",
+      "price": 499,
+      "originalPrice": 1499,
+      "membersPrice": 459
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "image": "https://images.bewakoof.com/t640/men-s-black-the-panda-way-oversize-fit-full-sleeve-t-shirt-580633-1676876417-1.jpg",
+      "brand": "Bewakoof®",
+      "name": "Men's Black The Panda Way Graphic Printed Oversized T-shirt",
+      "price": 699,
+      "originalPrice": 1499,
+      "membersPrice": 639,
+      "id": 2
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-maroon-chainsaw-man-graphic-printed-oversized-t-shirt-581386-1677044901-1.jpg",
+      "brand": "Bewakoof®",
+      "name": "Men's Maroon Chainsaw Man Graphic Printed Oversized T-shirt",
+      "price": 699,
+      "originalPrice": 1499,
+      "membersPrice": 459,
+      "id": 3
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-chainsaw-man-graphic-printed-t-shirt-581232-1676898338-1.jpg",
+      "brand": "Bewakoof®",
+      "name": "Men's Black Chainsaw Man Graphic Printed T-shirt",
+      "price": 399,
+      "originalPrice": 1499,
+      "membersPrice": 369,
+      "id": 4
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/chainsaw-man-oversize-fit-full-sleeve-t-shirt-580774-1676876222-1.jpg",
+      "brand": "Bewakoof®",
+      "name": "Men's Black Chainsaw Man Graphic Printed Oversized T-shirt",
+      "price": 699,
+      "originalPrice": 1499,
+      "membersPrice": 639,
+      "id": 5
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-blue-the-panda-way-oversized-t-shirt-580637-1676876264-1.jpg",
+      "brand": "Bewakoof®",
+      "name": "Men's Blue The Panda Way Graphic Printed Oversized T-shirt",
+      "price": 499,
+      "originalPrice": 1499,
+      "membersPrice": 459,
+      "id": 6
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-grey-old-school-t-shirt-580993-1676885189-1.jpg",
+      "brand": "Bewakoof®",
+      "name": "Men's Grey Old School Graphic Printed T-shirt",
+      "price": 399,
+      "originalPrice": 1499,
+      "membersPrice": 369,
+      "id": 7
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-red-old-school-graphic-printed-oversized-plus-size-t-shirt-581272-1676971229-1.jpg",
+      "brand": "Bewakoof®",
+      "name": "Men's Red Old School Graphic Printed Oversized Plus Size T-shirt",
+      "price": 599,
+      "originalPrice": 1399,
+      "membersPrice": 549,
+      "id": 8
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-blue-justice-league-society-sleeve-t-shirt-580630-1676869549-1.jpg",
+      "brand": "Bewakoof®",
+      "name": "Men's Blue Justice League Society Graphic Printed Oversized T-shirt",
+      "price": 699,
+      "originalPrice": 1499,
+      "membersPrice": 639,
+      "id": 9
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "cart": [
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-purple-justice-league-society-graphic-printed-oversized-t-shirt-581274-1676971303-1.jpg",
+      "brand": "Bewakoof®",
+      "name": "Men's Purple Justice League Society Graphic Printed Oversized T-shirt",
+      "price": 499,
+      "quantity": 2,
+      "originalPrice": 1499,
+      "membersPrice": 459,
+      "id": 1
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-the-panda-way-oversize-fit-full-sleeve-t-shirt-580633-1676876417-1.jpg",
+      "brand": "Bewakoof®",
+      "name": "Men's Black The Panda Way Graphic Printed Oversized T-shirt",
+      "price": 699,
+      "quantity": 1,
+      "originalPrice": 1499,
+      "membersPrice": 639,
+      "id": 2
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-maroon-chainsaw-man-graphic-printed-oversized-t-shirt-581386-1677044901-1.jpg",
+      "brand": "Bewakoof®",
+      "name": "Men's Maroon Chainsaw Man Graphic Printed Oversized T-shirt",
+      "price": 699,
+      "quantity": 1,
+      "originalPrice": 1499,
+      "membersPrice": 459,
+      "id": 3
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-chainsaw-man-graphic-printed-t-shirt-581232-1676898338-1.jpg",
+      "brand": "Bewakoof®",
+      "name": "Men's Black Chainsaw Man Graphic Printed T-shirt",
+      "price": 399,
+      "quantity": 1,
+      "originalPrice": 1499,
+      "membersPrice": 369,
+      "id": 4
+    }
+  ]
 }

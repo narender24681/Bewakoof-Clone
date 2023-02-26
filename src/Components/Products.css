@@ -1,0 +1,57 @@
+#products-card-container {
+    width: 90%;
+    margin: 50px auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 40px 15px;
+}
+
+.product-card-section-1 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 4px;
+}
+
+.product-card-brand {
+    font-weight: 600;
+}
+
+.product-card-name {
+    font-size: 14px;
+    color: gray;
+}
+
+.product-card-price {
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.product-card-original-price {
+    color: grey;
+    font-size: 14px;
+    margin-left: 10px;
+    text-decoration: line-through;
+}
+
+.product-card-members-price {
+    font-size: 14px;
+    font-weight: 600;
+    padding: 1px 5px;
+    background-color: hsla(0,0%,92.9%,.6);
+}
+
+.product-card-cart-btn {
+    display: block;
+    width: 100%;
+    margin-top: 15px;
+    padding: 7px 0px;
+    font-weight: 700;
+    border-radius: 3px;
+    color: orange;
+    border: 1.5px solid orange;
+}
+
+.product-card-cart-btn:hover {
+    color: white;
+    background-color: orange;
+}

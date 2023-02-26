@@ -1,0 +1,16 @@
+# POST http://localhost:8080/mens-clothing
+PATCH http://localhost:8080/cart/1
+Content-Type: application/json
+
+{
+  "quantity": 10
+}
+
+# {
+#   "image": "https://images.bewakoof.com/t640/men-s-blue-justice-league-society-sleeve-t-shirt-580630-1676869549-1.jpg",
+#   "brand": "Bewakoof®",
+#   "name": "Men's Blue Justice League Society Graphic Printed Oversized T-shirt",
+#   "price": 699,
+#   "originalPrice": 1499,
+#   "membersPrice": 639
+# }
