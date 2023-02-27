@@ -19,6 +19,20 @@ export default function Products({ url }) {
   }, []);
   console.log(products);
 
+  const handleFilter = (e) => {
+    // console.log(e.target.value);
+
+    if (e.target.value == "phtl") {
+      products.sort((e1, e2) => e2.price - e1.price);
+    }
+    else if (e.target.value == "plth") {
+      products.sort((e1, e2) => e1.price - e2.price);
+    }
+
+    // console.log(products);
+    setProducts([...products])
+  }
+
   const handleCartBtn = (e) => {
     toast({
       title: 'Product added to cart.',
@@ -61,7 +75,14 @@ export default function Products({ url }) {
   }
 
   return (
-    <div id="products-card-container">
+    <div>
+      <select onChange={handleFilter} id="product-filter">
+        <option value="">Filter Products</option>
+        <option value="phtl">Price High To Low</option>
+        <option value="plth">Price Low To High</option>
+      </select>
+
+      <div id="products-card-container">
       {products.map(({ id, image, brand, name, price, originalPrice, membersPrice }) =>
         <div key={id} className="product-card">
           <img src={image} alt={name} />
@@ -78,6 +99,7 @@ export default function Products({ url }) {
           <button onClick={handleCartBtn} id={id} className="product-card-cart-btn">Add To Cart</button>
         </div>
       )}
+    </div>
     </div>
   )
 }

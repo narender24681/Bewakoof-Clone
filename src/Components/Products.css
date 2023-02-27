@@ -1,3 +1,11 @@
+#product-filter {
+    display: block;
+    margin: 20px auto;
+    padding: 7px 15px;
+    border-radius: 3px;
+    border: 1.5px solid gray;
+}
+
 #products-card-container {
     width: 90%;
     margin: 50px auto;
