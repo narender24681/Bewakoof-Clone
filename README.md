@@ -7,23 +7,23 @@ In 2012, Bewkoof launched as an E-commerce platform for the youth and its portfo
 <hr />
 
 ## Technologies used
+- HTML
+- CSS
+- JavaScript
 - React
-- Redux
-- React-Bootstrap
-- MongoDB
-- Express
-- NodeJS
+- React Router DOM
+- Chakra-UI
+- JSON-Server
 
 <hr/>
 
 ## Features
 - There is login and signup functionality.
 - Navbar for easy navigation between pages and categories.
-- Product Pages where all the products are displayed using Api.
-- Add to cart functionality
+- Product Pages where all the products are displayed using Api with add to card button
+- Cart Page
 - Checkout Page
 - Payment Page
-
 
 <br/>
 
