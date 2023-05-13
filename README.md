@@ -20,7 +20,7 @@ In 2012, Bewkoof launched as an E-commerce platform for the youth and its portfo
 ## Features
 - There is login and signup functionality.
 - Navbar for easy navigation between pages and categories.
-- Product Pages where all the products are displayed using Api with add to card button
+- Product Pages where all the products are displayed using Api with add to cart button
 - Cart Page
 - Checkout Page
 - Payment Page
