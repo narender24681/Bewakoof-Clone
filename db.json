@@ -1,0 +1,190 @@
+{
+  "mens-clothing": [
+    {
+      "id": 1,
+      "image": "https://images.bewakoof.com/t640/men-s-purple-justice-league-society-graphic-printed-oversized-t-shirt-581274-1676971303-1.jpg",
+      "brand": "Bewakoof®",
+      "name": "Men's Purple Justice League Society Graphic Printed Oversized T-shirt",
+      "price": 499,
+      "originalPrice": 1499,
+      "membersPrice": 459
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-the-panda-way-oversize-fit-full-sleeve-t-shirt-580633-1676876417-1.jpg",
+      "brand": "Bewakoof®",
+      "name": "Men's Black The Panda Way Graphic Printed Oversized T-shirt",
+      "price": 699,
+      "originalPrice": 1499,
+      "membersPrice": 639,
+      "id": 2
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-maroon-chainsaw-man-graphic-printed-oversized-t-shirt-581386-1677044901-1.jpg",
+      "brand": "Bewakoof®",
+      "name": "Men's Maroon Chainsaw Man Graphic Printed Oversized T-shirt",
+      "price": 699,
+      "originalPrice": 1499,
+      "membersPrice": 459,
+      "id": 3
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-chainsaw-man-graphic-printed-t-shirt-581232-1676898338-1.jpg",
+      "brand": "Bewakoof®",
+      "name": "Men's Black Chainsaw Man Graphic Printed T-shirt",
+      "price": 399,
+      "originalPrice": 1499,
+      "membersPrice": 369,
+      "id": 4
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/chainsaw-man-oversize-fit-full-sleeve-t-shirt-580774-1676876222-1.jpg",
+      "brand": "Bewakoof®",
+      "name": "Men's Black Chainsaw Man Graphic Printed Oversized T-shirt",
+      "price": 699,
+      "originalPrice": 1499,
+      "membersPrice": 639,
+      "id": 5
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-blue-the-panda-way-oversized-t-shirt-580637-1676876264-1.jpg",
+      "brand": "Bewakoof®",
+      "name": "Men's Blue The Panda Way Graphic Printed Oversized T-shirt",
+      "price": 499,
+      "originalPrice": 1499,
+      "membersPrice": 459,
+      "id": 6
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-grey-old-school-t-shirt-580993-1676885189-1.jpg",
+      "brand": "Bewakoof®",
+      "name": "Men's Grey Old School Graphic Printed T-shirt",
+      "price": 399,
+      "originalPrice": 1499,
+      "membersPrice": 369,
+      "id": 7
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-red-old-school-graphic-printed-oversized-plus-size-t-shirt-581272-1676971229-1.jpg",
+      "brand": "Bewakoof®",
+      "name": "Men's Red Old School Graphic Printed Oversized Plus Size T-shirt",
+      "price": 599,
+      "originalPrice": 1399,
+      "membersPrice": 549,
+      "id": 8
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-blue-justice-league-society-sleeve-t-shirt-580630-1676869549-1.jpg",
+      "brand": "Bewakoof®",
+      "name": "Men's Blue Justice League Society Graphic Printed Oversized T-shirt",
+      "price": 699,
+      "originalPrice": 1499,
+      "membersPrice": 639,
+      "id": 9
+    }
+  ],
+  "cart": [
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-black-the-panda-way-oversize-fit-full-sleeve-t-shirt-580633-1676876417-1.jpg",
+      "brand": "Bewakoof®",
+      "name": "Men's Black The Panda Way Graphic Printed Oversized T-shirt",
+      "price": 699,
+      "quantity": 10,
+      "originalPrice": 1499,
+      "membersPrice": 639,
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Narender",
+      "lastName": "Ch",
+      "email": "narender@gmail.com",
+      "password": "Narender@123"
+    },
+    {
+      "id": 1,
+      "firstName": "Narender1",
+      "lastName": "Ch1",
+      "email": "narender1@gmail.com",
+      "password": "Narender1@123"
+    },
+    {
+      "id": 2,
+      "firstName": "Narender2",
+      "lastName": "Ch2",
+      "email": "narender2@gmail.com",
+      "password": "Narender2@123"
+    },
+    {
+      "email": "narender3@gmail.com",
+      "firstName": "Narender3",
+      "lastName": "Ch3",
+      "password": "Narender3@123",
+      "id": 3
+    },
+    {
+      "email": "narender4@gmail.com",
+      "firstName": "Narender4",
+      "lastName": "Ch4",
+      "password": "Narender4@123",
+      "id": 4
+    },
+    {
+      "email": "narender5@gmail.com",
+      "firstName": "Narender5",
+      "lastName": "Ch5",
+      "password": "Narender5@123",
+      "id": 5
+    },
+    {
+      "email": "narender6@gmail.com",
+      "firstName": "Narender6",
+      "lastName": "Ch6",
+      "password": "Narender6@123",
+      "id": 6
+    },
+    {
+      "email": "narender7@gmail.com",
+      "firstName": "Narender7",
+      "lastName": "Ch7",
+      "password": "Narender7@123",
+      "id": 7
+    },
+    {
+      "email": "narender8@gmail.com",
+      "firstName": "Narender8",
+      "lastName": "Ch8",
+      "password": "Narender8@123",
+      "id": 8
+    },
+    {
+      "email": "narender9@gmail.com",
+      "firstName": "Narender9",
+      "lastName": "Ch9",
+      "password": "Narender9@123",
+      "id": 9
+    },
+    {
+      "email": "narender10@gmail.com",
+      "firstName": "Narender10",
+      "lastName": "Ch10",
+      "password": "Narender10@123",
+      "id": 10
+    },
+    {
+      "email": "narender11@gmail.com",
+      "firstName": "Narender11",
+      "lastName": "Ch11",
+      "password": "Narender11@123",
+      "id": 11
+    },
+    {
+      "email": "narender12@gmail.com",
+      "firstName": "Narender12",
+      "lastName": "Ch12",
+      "password": "Narender12@123",
+      "id": 12
+    }
+  ]
+}

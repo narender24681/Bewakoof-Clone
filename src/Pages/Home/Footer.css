@@ -1,0 +1,78 @@
+#footer-main-container {
+    padding: 50px 0px;
+    margin-top: 5px;
+    background-color: #181818;
+}
+
+#footer-container {
+    width: 90%;
+    margin: auto;
+    color: white;
+    /* text-align: center; */
+    /* border: 1px solid lightgrey; */
+}
+
+.footer-heading4 {
+    color: #fdd835;
+    font-size: 14px;
+    margin-bottom: 7px;
+}
+
+.footer-p {
+    font-size: 12px;
+    line-height: 1.7;
+}
+
+.footer-divider {
+    margin: 30px 0px;
+    border: 1.4px solid gray;
+}
+
+#footer-section-1 {
+    display: flex;
+    justify-content: space-between;
+}
+#footer-section-1-4-subscribe > input {
+    padding: 5.3px 0px;
+    font-size: 14px;
+    background-color: #181818;
+    border-bottom: 1.5px solid #fdd835;
+}
+#footer-section-1-4-subscribe > button {
+    color: black;
+    font-size: 14px;
+    padding: 7px 30px;
+    background-color: #fdd835;
+}
+
+#footer-section-2 {
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-between;
+}
+
+#footer-section-2-2-images {
+    display: flex;
+}
+#footer-section-2-2-images > img {
+    width: 90px;
+}
+
+#footer-section-3 {
+    display: flex;
+    justify-content: space-between;
+}
+.footer-h2 {
+    font-size: 18px;
+    font-weight: 600;
+}
+.footer-h5 {
+    margin-top: 10px;
+    font-size: 14px;
+}
+.footer-h3 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    color: #51cccc;
+}
